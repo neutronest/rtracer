@@ -3,6 +3,7 @@ fn main() {
     let image_width: i32 = 256;
     let image_height: i32 = 256;
 
+
     // Render
     print!("P3\n{} {}\n255\n", image_width, image_height);
 
